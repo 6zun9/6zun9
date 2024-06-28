@@ -16,6 +16,11 @@ I'm a Software Engineer specializing in Front-end Engineering.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwind-css)
+![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
